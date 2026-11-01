@@ -1,0 +1,24 @@
+<model-viewer src="Flat-Roof_Cold-Roof_01.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="neutral" poster="poster.webp" shadow-intensity="1" camera-orbit="-126.4deg 68.26deg 2.684m" field-of-view="30deg">
+    <button class="Hotspot" slot="hotspot-1" data-position="0.6581887999740382m 0.33350001566601417m -0.31083465420010353m" data-normal="0m 1m 4.4896641959724086e-11m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Waterproof Roof Covering</div>
+    </button><button class="Hotspot" slot="hotspot-2" data-position="0.21907403267749495m 0.32450001564802605m -0.10594913461409916m" data-normal="0m 1m 4.489664195972409e-11m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Deck</div>
+    </button><button class="Hotspot" slot="hotspot-3" data-position="0.10000000401083431m 0.07877778432660319m -0.3108175868740562m" data-normal="-1m 0m 0m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Rigid Insulation Below Joists</div>
+    </button><button class="Hotspot" slot="hotspot-4" data-position="0.04406757150869221m 0.2306785969906721m -0.22250001067470582m" data-normal="4.996003844775211e-16m 3.427343959225532e-8m -0.9999999999999994m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Roof Joist</div>
+    </button><button class="Hotspot" slot="hotspot-5" data-position="0.2050354387353584m 0.26979983419705267m -0.6425000406533277m" data-normal="-3.422854295029559e-8m 4.489664195972407e-11m -0.9999999999999994m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Stop Batten</div>
+    </button><button class="Hotspot" slot="hotspot-7" data-position="0.15000000601625224m 0.17181564507109243m -0.7581963440865502m" data-normal="-1m 0m 0m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Insulation Between Joists</div>
+    </button><button class="Hotspot" slot="hotspot-8" data-position="0.06798946795002625m 0.05150000246077073m -0.7438368711039014m" data-normal="0m 1m 4.4896641959724086e-11m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">AVCL</div>
+    </button><button class="Hotspot" slot="hotspot-9" data-position="0.787343206592756m 0.029809506848417777m -0.7999999805006108m" data-normal="4.070770877526758e-24m 4.489664195972409e-11m -1m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Softwood Batten</div>
+    </button><button class="Hotspot" slot="hotspot-10" data-position="0.6026163266458237m 6.459530826896653e-12m -0.14251135278589733m" data-normal="0m -1m -4.4803611264766155e-11m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Plasterboard Ceiling</div>
+    </button>
+    <div class="progress-bar hide" slot="progress-bar">
+        <div class="update-bar"></div>
+    </div>
+</model-viewer>
